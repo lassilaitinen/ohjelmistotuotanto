@@ -1,0 +1,5 @@
+1. Glad, Sad, Mad:
+Tämä tekniikka on perusajatukseltaan hyvin yksinkertainen. Jokainen tiimin jäsen luokittelee sprintin asiat otsikon mukaisiin kategorioihin. Lopuksi sprintin asiat jaotellaan koko tiimin puolesta samoihin kategorioihin. Viimeisenä tiimin jäsenet äänestävät asioista, joista halutaan käydä syvempää keskustelua. Äänestyksen jälkeen retrospektiivin vetäjä (usein scrummaster) johtaa keskustelua äänestetyistä aiheista. Tämä tekniikka voi viedä noin tunnin.
+
+2. Start, Stop, Continue, More of, Less of Wheel:
+Tässä tekniikassa täytetään "pyörää" tai ympyrää, joka on jaettu viiteen osaan tavan otsikon asioiden mukaan. Tiimi täyttää jokaisen osa-alueen, jonka jälkeen käydään keskustelua aiheesta. Tekniikka on hyödyllinen palautteen saamiseen, sillä saadaan tietää, esimerkiksi jos tiimi haluaa enemmän tai vähemmän hyödyntää tai käyttää aikaa johonkin tiettyyn osa-alueeseen. Näistä kahdesta tekniikasta lyhyempi, lähteen mukaan 10-25 minuuttia.
